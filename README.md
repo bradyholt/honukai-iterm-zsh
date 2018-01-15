@@ -1,6 +1,6 @@
 ## Honukai theme and colors for Oh My ZSH and iTerm by [@oskar](https://twitter.com/oskar)
 
-![image](https://user-images.githubusercontent.com/759811/34958229-8fa00ce4-f9f6-11e7-89b4-2fdfdba4d5b6.png)
+![image](https://user-images.githubusercontent.com/759811/34958297-d846477e-f9f6-11e7-9c8c-b0bdf6451e92.png)
 
 [See how it looks with blur and transparency](https://v.usetapes.com/SDGzCBkHh4) (video).
 
